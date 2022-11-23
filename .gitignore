@@ -1,0 +1,7 @@
+node_modules/
+/build*
+QT_frontend/QT_frontend.pro.user
+DLLSerialPort/DLLSerialPort.pro.user
+DLLRestApi/DLLRestAPI.pro.user
+DLLPinCode/DLLPinCode.pro.user
+api/database.js
